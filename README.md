@@ -1,7 +1,10 @@
 # Teaching-Assistant-Evaluation-
-# This Project is designed to use machine learning to predict the scores of TA
-# Data retrieved from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/teaching+assistant+evaluation
-# Used generalized linear mixed model and lasso regression model to determine the significance of 5 factors
+
+This Project is designed to use machine learning to predict the scores of TA
+
+Data retrieved from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/teaching+assistant+evaluation
+
+Used generalized linear mixed model and lasso regression model to determine the significance of 5 factors
 
 ## Introduction
 
